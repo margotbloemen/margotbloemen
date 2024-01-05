@@ -4,7 +4,7 @@
 I'm Margot, the Social Media Manager at the University of Antwerp. I have a diverse background in press and communications, web design, and social media coaching.
 
 ## What's This Repo About?
-This repository hosts various projects related to my Master's in Digital Text Analysis. Expect to see a range of code snippets and full-blown projects that explore data visualization and natural language processing.
+This repository hosts various projects related to my Master's in Digital Text Analysis. Expect to see a bunch of code snippets and projects that explore data visualization, machine learning and natural language processing.
 
 ## Fun Facts
 - I have a deep appreciation for movies, so if you notice some cinematic references in my code, you're on the right track.
